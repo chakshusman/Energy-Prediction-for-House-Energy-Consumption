@@ -13,7 +13,7 @@ ROC Curve Comparison: Plotted Receiver Operating Characteristic (ROC) curves wit
 Best Performing Model: Achieved an impressive accuracy of 89% with the SVC model using RBF Kernel. This accuracy was attained while ensuring the avoidance of overfitting through rigorous Hyperpa
 
 Technologies Used:
-Python
-Scikit-learn
-Matplotlib
+Python,
+Scikit-learn,
+Matplotlib,
 Pandas
